@@ -188,15 +188,15 @@ html[xmlns] .flexslider .slides {
 }
 .flex-pauseplay a:before {
   font-family: "flexslider-icon";
-  font-size: 20px;
+  font-size: 0px;
   display: inline-block;
-  content: '\f004';
+  content: '';
 }
 .flex-pauseplay a:hover {
   opacity: 1;
 }
 .flex-pauseplay a.flex-play:before {
-  content: '\f003';
+  content: '';
 }
 .flex-control-nav {
   width: 100%;
