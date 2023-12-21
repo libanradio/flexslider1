@@ -209,7 +209,7 @@ html[xmlns] .flexslider .slides {
   *display: inline;
 }
 .flex-control-paging li a {
-  width: 15px;
+  width: 25px;
   height: 5px;
   display: block;
   background: #666;
